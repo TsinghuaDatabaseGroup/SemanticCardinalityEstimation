@@ -228,7 +228,7 @@ dataset:
 
 
 ## Bibtex
-
+```
 @article{DBLP:journals/pacmmod/XuWL26,
   author       = {Shihui Xu and
                   Jiayi Wang and
@@ -246,4 +246,4 @@ dataset:
   biburl       = {https://dblp.org/rec/journals/pacmmod/XuWL26.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
-
+```
