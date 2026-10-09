@@ -225,3 +225,25 @@ dataset:
   #   collection:          # Description of the collection for full-text extraction
   #   relevance:           # Rule for deciding which full-text labels apply
 ```
+
+
+## Bibtex
+
+@article{DBLP:journals/pacmmod/XuWL26,
+  author       = {Shihui Xu and
+                  Jiayi Wang and
+                  Guoliang Li},
+  title        = {Bridging the Gap: Cardinality Estimation for Semantic Queries on Unstructured
+                  Data},
+  journal      = {ACM SIGMOD},
+  volume       = {4},
+  number       = {3},
+  pages        = {147:1--147:26},
+  year         = {2026},
+  url          = {https://doi.org/10.1145/3802024},
+  doi          = {10.1145/3802024},
+  timestamp    = {Wed, 09 Sep 2026 18:15:32 +0200},
+  biburl       = {https://dblp.org/rec/journals/pacmmod/XuWL26.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
